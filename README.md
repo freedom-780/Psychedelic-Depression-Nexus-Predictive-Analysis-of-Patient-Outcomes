@@ -1,6 +1,6 @@
 # Psychedelic mushrooms Capstone Project
 
-Depression has been increasing even before COVID-19. As a tool to aid in treatment of this psydelics has seen a resurrence in recent years due to clinical trials and breakthrough studies. Psydelics have been used the "betterment of well people" , PTSD, etc.
+Depression has been increasing even before COVID-19. As a tool to aid in treatment of this increase,psychedelics have seen a resurrence in recent years due to clinical trials and breakthrough studies. psychedelics have been used the "betterment of well people" , PTSD, etc.
 
 ## Question 
 
@@ -8,7 +8,7 @@ Depression has been increasing even before COVID-19. As a tool to aid in treatme
 
 ## Conclusion 
 
-Overall the SVC model has the best performance on the recall(because we want to reduce false negatives) and MCC score 
+Overall the SVC model has the best performance on the recall(because we want to reduce false negatives) and use MCC score which is a more balanced metric for an unbalanced data.
 
 Test recall: 0.7707612456747405
 MCC: 0.5157035181660333
