@@ -4,7 +4,7 @@ Depression has been increasing even before COVID-19. As a tool to aid in treatme
 
 ## Question 
 
-**Given patient features and psychedelic drug use, can we create a model to predict depression to enable clinical improvement
+**Given patient features and psychedelic drug use, can we create a model to predict depression to enable clinical improvement?**
 
 ## Conclusion 
 
