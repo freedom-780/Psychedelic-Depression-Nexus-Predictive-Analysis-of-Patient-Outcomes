@@ -4,5 +4,15 @@ Depression has been increasing even before COVID-19. As a tool to aid in treatme
 
 ## Question 
 
-Given patient features and psychedelic drug use, can we create a model to predict depression to enable clinical improvement?
-![image](https://user-images.githubusercontent.com/79125303/202749464-62641e83-e915-4bd2-8d81-0d523dde84fd.png)
+**Given patient features and psychedelic drug use, can we create a model to predict depression to enable clinical improvement
+
+## Conclusion 
+
+Overall the SVC model has the best performance on the recall(because we want to reduce false negatives) and MCC score 
+
+Test recall: 0.7707612456747405
+MCC: 0.5157035181660333
+![SVC_confusion_matrix](https://user-images.githubusercontent.com/79125303/202750801-e3eb9a03-f02a-4190-9bb9-05f3e61c8f82.png)
+
+
+
