@@ -1,0 +1,8 @@
+SVC Parameters 
+
+SVC(cache_size= 1000, random_state=0, max_iter= -1))
+
+Performance metrics 
+
+test_recall = recall_score(y_test, y_pred)
+mcc_lr = matthews_corrcoef(y_test, y_pred)
