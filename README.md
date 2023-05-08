@@ -1,4 +1,4 @@
-# Psychedelic mushrooms Capstone Project
+# Psychedelic-Depression Nexus: Predictive Analysis of Patient Outcomes
 
 Depression has been increasing even before COVID-19. As a tool to aid in treatment of this increase,psychedelics have seen a resurrence in recent years due to clinical trials and breakthrough studies. psychedelics have been used the "betterment of well people" , PTSD, etc.
 
